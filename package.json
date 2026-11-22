@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Explore projectile motion with an animated simulation.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",

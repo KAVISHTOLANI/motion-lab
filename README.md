@@ -2,6 +2,8 @@
 
 An interactive projectile-motion simulator. Change launch speed, angle, gravity (with Earth, Moon, Mars and Jupiter presets) and launch height, watch an animated, to-scale trajectory, read the calculated values, and get a plain-language explanation of what's happening.
 
+**Live demo:** [https://kavishtolani.github.io/motion-lab/](https://kavishtolani.github.io/motion-lab/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Simulator on Mars with pinned comparisons](docs/lab.png)
 
 | Landing | Mobile |
@@ -42,3 +44,7 @@ npm run test:e2e   # Playwright smoke test (npm run e2e:install once if Chromium
 ## Future improvements
 
 - Optional linear/quadratic drag with a comparison to the ideal curve; a target to hit; exporting trajectory data as CSV.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).
