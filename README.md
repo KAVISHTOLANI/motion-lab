@@ -1,5 +1,17 @@
 # Motion Lab
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="Motion Lab on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="Motion Lab on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="Motion Lab on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 An interactive projectile-motion simulator. Change launch speed, angle, gravity (with Earth, Moon, Mars and Jupiter presets) and launch height, watch an animated, to-scale trajectory, read the calculated values, and get a plain-language explanation of what's happening.
 
 **Live demo:** [https://kavishtolani.github.io/motion-lab/](https://kavishtolani.github.io/motion-lab/) — runs entirely in your browser; demo data is fictional and labelled.
